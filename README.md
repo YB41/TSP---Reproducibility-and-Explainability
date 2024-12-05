@@ -10,7 +10,7 @@ Due to this, all models were taken 'out-of-box' and not modified. Further, all m
 
 The models are all trained on log-diff data. The diff function returns the difference between day x and day x+1. 
 
-Results can be found in #insert paper#.
+Results can be found in BA Paper.
 
 For examples, see folder Example_Performances
 
